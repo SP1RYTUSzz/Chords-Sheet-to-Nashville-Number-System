@@ -1,4 +1,4 @@
-Attribute VB_Name = "NewMacros"
+Attribute VB_Name = "ChordtoNNSMacros"
 Sub ChordToNashville()
 Attribute ChordToNashville.VB_ProcData.VB_Invoke_Func = "Normal.NewMacros.Macro1"
 '
